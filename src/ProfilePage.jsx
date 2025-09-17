@@ -11,7 +11,8 @@ import {
   FaCode,
   FaServer,
   FaTools,
-} from "react-icons/fa6";
+} from "react-icons/fa"; 
+
 import { jsPDF } from "jspdf";
 
 const skillsData = {
